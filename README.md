@@ -8,4 +8,4 @@ The puzzle is described in [Machinarium Wiki](https://machinarium.fandom.com/wik
 
 My solution is written in Python, it is simple thanks to the recursion technique and works for **any number of arrows**.
 
-![Puzzle Panel Image](https://static.wikia.nocookie.net/machinarium/images/7/70/Mini-game_7.jpg)
+![Puzzle Panel Image](Mini-game_7.png)
